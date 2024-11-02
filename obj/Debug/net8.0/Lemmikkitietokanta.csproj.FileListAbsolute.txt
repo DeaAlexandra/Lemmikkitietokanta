@@ -38,3 +38,4 @@ C:\Learning\Testi_5\Lemmikkitietokanta\obj\Debug\net8.0\refint\Lemmikkitietokant
 C:\Learning\Testi_5\Lemmikkitietokanta\obj\Debug\net8.0\Lemmikkitietokanta.pdb
 C:\Learning\Testi_5\Lemmikkitietokanta\obj\Debug\net8.0\Lemmikkitietokanta.genruntimeconfig.cache
 C:\Learning\Testi_5\Lemmikkitietokanta\obj\Debug\net8.0\ref\Lemmikkitietokanta.dll
+C:\Learning\Testi_5\Lemmikkitietokanta\obj\Debug\net8.0\Lemmikkitietokanta.sourcelink.json
